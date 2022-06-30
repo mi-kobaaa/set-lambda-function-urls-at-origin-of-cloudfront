@@ -1,3 +1,3 @@
 # What is this repository
-
-ohayo hello
+Configure lambdafunction for Cloudfront origin in CDK.
+When you access the DistributionDomainName, it returns a ohayo hello
